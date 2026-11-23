@@ -1,16 +1,22 @@
 Début : 
 
-Saisir a, b, c
-Calculer d (delta) = b^2-4ac
+    Saisir a, b, c
+    alculer d (delta) = b^2-4ac
 
-Si d > 0 :
-Pour x1 -> Calculer (-b + racine carré de d) / 2a
-Pour x2 -> Calculer (-b - racine carré de d) / 2a
+    Si d > 0 :
+    Pour x1 -> Calculer (-b + racine carré de d) / 2a
+    Pour x2 -> Calculer (-b - racine carré de d) / 2a
 
-Sinon si d < 0 
-Pas de solution réelle
+    Sinon si d < 0 
+    Pas de solution réelle
 
-Sinon si d=0 :
-Pour x1 = x2 -> Calculer -(b/2a)
+    Sinon si d=0 :
+    Pour x1 = x2 -> Calculer -(b/2a)
 
-FinSi
+    FinSi
+
+    Afficher : 
+    x1 =
+    x2 = 
+
+Fin
